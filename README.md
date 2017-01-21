@@ -33,22 +33,22 @@ The <strong>padding</strong> property is a shorthand property for the following 
 <b>Example 2:</b>
 
 <i>Input:</i>
-<li>margin-top: 25px;</li>
-<li>margin-right: 50px;</li>
-<li>margin-bottom: 75px;</li>
-<li>margin-left: 50px;</li>
+<li>padding-top: 25px;</li>
+<li>padding-right: 50px;</li>
+<li>padding-bottom: 75px;</li>
+<li>padding-left: 50px;</li>
 
-<i>Output:</i> <strong>margin: 25px 50px 75px;</strong>
+<i>Output:</i> <strong>padding: 25px 50px 75px;</strong>
 
 <b>Example 3:</b>
 
 <i>Input:</i>
-<li>padding-top: 25px;</li>
-<li>padding-right: 50px;</li>
-<li>padding-bottom: 25px;</li>
-<li>padding-left: 50px;</li>
+<li>margin-top: 25px;</li>
+<li>margin-right: 50px;</li>
+<li>margin-bottom: 25px;</li>
+<li>margin-left: 50px;</li>
 
-<i>Output:</i> <strong>padding: 25px 50px;</strong>
+<i>Output:</i> <strong>margin: 25px 50px;</strong>
 
 <b>Example 4:</b>
 
