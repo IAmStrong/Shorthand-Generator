@@ -2,20 +2,29 @@
 
 To shorten the code, it is possible to specify all the margin or padding properties in one property.
 
-The margin property is a shorthand property for the following individual margin properties:
+The <strong>margin</strong> property is a shorthand property for the following individual margin properties:
 
 <ul>
 <li>margin-top</li>
-margin-right
-margin-bottom
-margin-left
+<li>margin-right</li>
+<li>margin-bottom</li>
+<li>margin-left</li>
 </ul>
 
-The padding property is a shorthand property for the following individual padding properties:
+The <strong>padding</strong> property is a shorthand property for the following individual padding properties:
 
-padding-top
-padding-right
-padding-bottom
-padding-left
+<li>padding-top</li>
+<li>padding-right</li>
+<li>padding-bottom</li>
+<li>padding-left</li>
 
-This tool will help you to specify individual properties in one property with ease.
+<i>This tool will help you to specify individual properties in one property with ease.</i>
+
+<hr>
+
+<em>For example:</em>
+
+margin-top: 25px;
+margin-right: 50px;
+margin-bottom: 75px;
+margin-left: 50px;
