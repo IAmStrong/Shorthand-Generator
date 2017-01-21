@@ -16,7 +16,7 @@ The <strong>padding</strong> property is a shorthand property for the following 
 <li>padding-bottom</li>
 <li>padding-left</li>
 
-<i>This tool will help you to specify individual properties in one property with ease.</i>
+<i>This tool will help you to specify individual properties in one property with ease and copy the result with just one click.</i>
 
 <hr>
 
