@@ -4,12 +4,10 @@ To shorten the code, it is possible to specify all the margin or padding propert
 
 The <strong>margin</strong> property is a shorthand property for the following individual margin properties:
 
-<ul>
 <li>margin-top</li>
 <li>margin-right</li>
 <li>margin-bottom</li>
 <li>margin-left</li>
-</ul>
 
 The <strong>padding</strong> property is a shorthand property for the following individual padding properties:
 
@@ -22,9 +20,42 @@ The <strong>padding</strong> property is a shorthand property for the following 
 
 <hr>
 
-<em>For example:</em>
+<b>Example 1:</b>
 
-margin-top: 25px;
-margin-right: 50px;
-margin-bottom: 75px;
-margin-left: 50px;
+<i>Input:</i>
+<li>margin-top: 25px;</li>
+<li>margin-right: 50px;</li>
+<li>margin-bottom: 75px;</li>
+<li>margin-left: 50px;</li>
+
+<i>Output:</i> <strong>margin: 25px 50px 75px;</strong>;
+
+<b>Example 2:</b>
+
+<i>Input:</i>
+<li>padding-top: 25px;</li>
+<li>padding-right: 50px;</li>
+<li>padding-bottom: 25px;</li>
+<li>padding-left: 50px;</li>
+
+<i>Output:</i> <strong>padding: 25px 50px;</strong>;
+
+<b>Example 3:</b>
+
+<i>Input:</i>
+<li>margin-top: 25px;</li>
+<li>margin-right: 0;</li>
+<li>margin-bottom: 15px;</li>
+<li>margin-left: 30px;</li>
+
+<i>Output:</i> <strong>margin: 25px 0 15px 30px;</strong>;
+
+<b>Example 4:</b>
+
+<i>Input:</i>
+<li>padding-top: 25px;</li>
+<li>padding-right: 25px;</li>
+<li>padding-bottom: 25px;</li>
+<li>padding-left: 25px;</li>
+
+<i>Output:</i> <strong>padding: 25px;</strong>;
